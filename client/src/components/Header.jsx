@@ -11,6 +11,7 @@ const Header = ({ title, subTitle }) => {
           color: theme.palette.secondary[100],
           fontWeight: "bold",
           mb: "5px",
+          textTransform:"uppercase"
         }}
       >
         {title}

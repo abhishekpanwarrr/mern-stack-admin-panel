@@ -61,18 +61,18 @@ const navItems = [
       text: "Sales",
       icon: null,
     },
-    {
-      text: "Overview",
-      icon: <PointOfSaleOutlined />,
-    },
-    {
-      text: "Daily",
-      icon: <TodayOutlined />,
-    },
-    {
-      text: "Monthly",
-      icon: <CalendarMonthOutlined />,
-    },
+    // {
+    //   text: "Overview",
+    //   icon: <PointOfSaleOutlined />,
+    // },
+    // {
+    //   text: "Daily",
+    //   icon: <TodayOutlined />,
+    // },
+    // {
+    //   text: "Monthly",
+    //   icon: <CalendarMonthOutlined />,
+    // },
     {
       text: "Breakdown",
       icon: <PieChartOutlined />,
